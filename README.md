@@ -1,4 +1,13 @@
 # Projeto-Modelo-Preditivo
--
--
--
+- Random Forest
+- PCA (Análise de Componentes Principais)
+- ROC Curve (Receiver Operating Characteristic)
+- Curva de Variância Explicada Cumulativa
+- Pipeline (Scikit-learn)
+- OneHotEncoder
+- ColumnTransformer
+- MinMaxScaler
+- Feature Importance
+- Curva ROC e AUC (Área Sob a Curva)
+- SimpleImputer
+- Desvio Padrão, Z-Score e IQR para Detecção de Outliers
